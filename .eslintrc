@@ -4,12 +4,13 @@
 		"browser": true,
 		"node": true
 	},
+	"extends": "eslint:recommended",
 	"parserOptions": {
 		"ecmaVersion": 6,
 		"sourceType": "module"
 	},
 	"rules": {
-		"indent": ["error", 2],
+		"indent": ["error", 3],
 		"linebreak-style": ["error", "unix"],
 		"quotes": ["warn", "single"],
 		"semi": ["error", "always"]

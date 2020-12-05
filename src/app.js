@@ -1,6 +1,6 @@
 import './css/style.css';
 import {
-	html
+  html
 } from "./js/index.js";
 html();
 

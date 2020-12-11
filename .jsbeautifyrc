@@ -1,5 +1,6 @@
 {
 	"indent_with_tabs": false,
+	"space_after_named_function": true,
 	"indent_size": 3,
 	"max_preserve_newlines": 2,
 	"preserve_newlines": true,

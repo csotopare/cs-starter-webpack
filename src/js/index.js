@@ -4,6 +4,4 @@ function html() {
    }
 }
 
-export {
-   html
-};
+export { html };
